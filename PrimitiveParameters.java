@@ -4,7 +4,7 @@ public class PrimitiveParameters
 	{	go();
 	}
 	
-	public static void go()
+	public static void go(
 	{	int x = 3;
 		int y = 2;
 		System.out.println("In method go. x: " + x + " y: " + y);
